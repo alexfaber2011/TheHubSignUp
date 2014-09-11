@@ -1,15 +1,8 @@
-Created by https://www.gitignore.io
+# Created by https://www.gitignore.io
 
 ### Meteor ###
 .meteor/local
 .meteor/meteorite
-
-
-### Linux ###
-*~
-
-# KDE directory preferences
-.directory
 
 
 ### OSX ###
@@ -34,6 +27,13 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+
+### Linux ###
+*~
+
+# KDE directory preferences
+.directory
 
 
 ### Intellij ###
@@ -83,23 +83,6 @@ atlassian-ide-plugin.xml
 com_crashlytics_export_strings.xml
 
 
-### SublimeText ###
-# cache files for sublime text
-*.tmlanguage.cache
-*.tmPreferences.cache
-*.stTheme.cache
-
-# workspace files are user-specific
-*.sublime-workspace
-
-# project files should be checked into the repository, unless a significant
-# proportion of contributors will probably not be using SublimeText
-# *.sublime-project
-
-# sftp configuration file
-sftp-config.json
-
-
 ### Node ###
 # Logs
 logs
@@ -129,4 +112,3 @@ node_modules
 
 # Users Environment Variables
 .lock-wscript
-
